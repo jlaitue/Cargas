@@ -1,0 +1,25 @@
+  "content": "hola",
+   "userid": "1629700800377643",
+   "time": "2017-04-07 18:36:23 -0500 CDT",
+   "type": "text",
+   "response": "caracola mágica",
+   "confidence": 0,
+   "intent": "",
+   "message_id":123124,
+   "service": "fb" ELIMINAR
+   "message_checked":True/False
+   "intent_grade":0/1/Null string
+
+
+   {
+
+    "content": "Para nada, todos se burlan de mi",
+    "userid": "4",
+    "time": "2017-04-26 13:42:56 -0500 CDT",
+    "type": "text",
+    "response": "¿Eres una persona sociable?",
+    "confidence": ".25",
+    "intent": "saludar",
+    "message_id": 4,
+    "message_checked": false,
+}
