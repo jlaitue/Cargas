@@ -18,7 +18,7 @@ categorias = []
 variables = []
 factores = {}
 
-dimension = "D2"
+dimension = "D10"
 dimension_id = { 'D1': 74,  'D2': 75,  'D3': 76, 'D4': 77, 'D5': 84, 'D6': 79, 'D7': 80, 'D8': 81, 'D9': 82, 'D10': 83}.get(dimension, 74)
 
 dimensions_url = 'https://cmsadmin.jenny.mx/admin/cmsdimensions/'
